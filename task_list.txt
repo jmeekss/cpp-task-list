@@ -1,0 +1,4 @@
+Get bike fixed	1
+Call your mom	1
+Buy toothbrush	0
+Do homework	0
